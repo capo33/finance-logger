@@ -1,4 +1,4 @@
-import { Invoice } from './classes/invoice.js';
+import { Invoice } from './classes/Invoice.js';
 import { ListTemplate } from './classes/ListTemplate.js';
 import { Payment } from './classes/Payment.js';
 const form = document.querySelector(".new-item-form");
